@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 A physics student in love with ✨ _stochastic_ ✨ stuff and sick of empirical models.
 
 My bushido is basically
->  Bureaucracy is the death of any achievement
+>  Bureaucracy is the art of making the possible impossible
 
 so ask me anything but filling out forms.
 
