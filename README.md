@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A physics student in love with ✨ _stochastic_ ✨ stuff and sick of empirical models.
 
->  Bureaucracy is the death of any achievement.
+My bushido is basically
+>  Bureaucracy is the death of any achievement
 
-I'm a physics student in love with ✨ _stochastic_ ✨ stuff and sick of empirical models.
+so ask me anything but filling out forms.
+
