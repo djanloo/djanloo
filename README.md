@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **djanloo/djanloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+>  Bureaucracy is the death of any achievement.
+
+I'm a physics student in love with ✨ _stochastic_ ✨ stuff and sick of empirical models.
