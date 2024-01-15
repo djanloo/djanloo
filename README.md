@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A physics student in love with ✨ _stochastic_ ✨ stuff and sick of empirical models.
+I quite like coding.
 
 My bushido is basically
 >  Bureaucracy is the art of making the possible impossible
